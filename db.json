@@ -2,23 +2,28 @@
     "dogs": [
         {
           "id": 0,
-          "name": "American Bully - (Pocket)"
+          "name": "American Bully - (Pocket)",
+          "height": "Under 17 inches"
         },
         {
           "id": 1,
-          "name": "American Bully - (Standard)"
+          "name": "American Bully - (Standard)",
+          "height": "17-20 inches"
         },
         {
           "id": 2,
-          "name": "American Bully - (XL)"
+          "name": "American Bully - (XL)",
+          "height": "Max 23 inches"
         },
         {
           "id": 3,
-          "name": "Micro Exotic Bully"
+          "name": "Micro Exotic Bully",
+          "height": "Under 14 inches"
         },
         {
           "id": 4,
-          "name": "French bulldog"
+          "name": "French bulldog",
+          "height": "Around 12 inches"
         }
     ]
 }

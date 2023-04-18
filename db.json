@@ -24,6 +24,26 @@
           "id": 4,
           "name": "French bulldog",
           "height": "Around 12 inches"
+        },
+        {
+          "id": 5,
+          "name": "Pug",
+          "height": "Around 14 inches"
+        },
+        {
+          "id": 6,
+          "name": "Boston terrier",
+          "height": "Around 14 inches"
+        },
+        {
+          "id": 7,
+          "name": "English bulldog",
+          "height": "Around 16 inches"
+        },
+        {
+          "id": 8,
+          "name": "Cane Corso",
+          "height": "Around 28 inches"
         }
     ]
 }

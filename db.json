@@ -1,22 +1,24 @@
-[
-    {
-      "id": 0,
-      "name": "American Bully - (Pocket)"
-    },
-    {
-      "id": 1,
-      "name": "American Bully - (Standard)"
-    },
-    {
-      "id": 2,
-      "name": "American Bully - (XL)"
-    },
-    {
-      "id": 3,
-      "name": "Micro Exotic Bully"
-    },
-    {
-      "id": 4,
-      "name": "French bulldog"
-    }
-]
+{
+    "dogs": [
+        {
+          "id": 0,
+          "name": "American Bully - (Pocket)"
+        },
+        {
+          "id": 1,
+          "name": "American Bully - (Standard)"
+        },
+        {
+          "id": 2,
+          "name": "American Bully - (XL)"
+        },
+        {
+          "id": 3,
+          "name": "Micro Exotic Bully"
+        },
+        {
+          "id": 4,
+          "name": "French bulldog"
+        }
+    ]
+}
